@@ -1,4 +1,4 @@
-# path-finding-visualiser-using-A-searching-algorithm
+# path-finding-visualiser-using-A*-searching-algorithm
 A* searching algorithm Visualizer
 An A* path finding algorithm is used to find the shortest distance between two given points on a graph. This algorithm, unlike other path-finding algorithm such as Dijkstra's algorithm doesn't brute force search for every node to find a path, but use a heuristic function that guides which path is essential for accomplishing the task.
 
